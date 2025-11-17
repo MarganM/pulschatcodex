@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedChat</string>
+    <string name="input_placeholder">Type a message</string>
+    <string name="send">Send</string>
+</resources>
